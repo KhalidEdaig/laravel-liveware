@@ -8,6 +8,7 @@
 </p>
 ## About Run project
 - [Create a database locally named laravel utf8_general_ci]
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
 - Download composer https://getcomposer.org/download/
 - Pull Laravel/php project from git provider.
 - Rename .env.example file to .envinside your project root and fill the database information. (windows wont let you do it, so you have to open your console cd your project root - directory and run mv .env.example .env )
